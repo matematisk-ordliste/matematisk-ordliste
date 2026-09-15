@@ -44,4 +44,5 @@ Her kan du lese om hvordan du kan
   [Termportalen](https://www.termportalen.no/) for støtte og bistand i arbeidet
   med integreringen imot deres portal, samt for rådgivning til vårt
   terminologiarbeid.
+- Fredrik Bakke (NTNU) for store bidrag gjennom mange år, blant annet i forbindelse med integreringen opp mot Termportalen.
 - [Alle bidragsytere](BIDRAGSYTERE.md)
