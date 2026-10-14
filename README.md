@@ -25,6 +25,10 @@ Her kan du lese om hvordan du kan
 [komme med innspill](dokumentasjon/innspill.md) og om valg av
 [språklige konvensjoner](dokumentasjon/spraklige_konvensjoner.md).
 
+### Integrasjon med Termportalen
+
+Matematisk ordliste er tilgjengelig som en [termbase på termportalen.no](https://termportalen.no/tb/MATO). Termbasen synkroniseres daglig gjennom en automatisert prosess ved hjelp av GitHub APIet og transformeres til en RDF-representasjon som er i samsvar med [Forvaltningsstandard for begrepsbeskrivelser](https://data.norge.no/specification/skos-ap-no-begrep).
+
 ### Takk til:
 
 - [Språkrådet](https://www.sprakradet.no/) og
